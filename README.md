@@ -1,4 +1,4 @@
-👋 Hi, I’m Kevin!
+👋 Hi, I’m Kevin (he/him)!
 
 
 <!---
