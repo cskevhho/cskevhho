@@ -4,6 +4,8 @@ I am an ex-personal trainer and manager of **over 10 years of experience** in a 
 
 My current focus is on the full completion of the Odin Project's JavaScript curriculum as a solid foundation to begin my webdev journey, as well as mastering PyTorch and exploring further into the AI/ML space!
 
+However my TOP and PyTorch efforts will be put to the side for now as I will focus on software design patterns, database and database management, as well as e-commerce systems for my fall 2023 term!
+
 
 <!---
 cskevhho/cskevhho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
