@@ -8,13 +8,13 @@ Ex-personal trainer and manager with over 10 years of experience in the retail a
 ## About Me
 
 - 🌱 Currently focused on building a strong foundation in full stack development.
-- 👨‍🎓 Enrolled in York University starting my 3rd year in Computer Science, co-op qualified
+- 👨‍🎓 Enrolled in York University starting my 3rd year in Computer Science (Fall 2023), co-op qualified
 - 🎮 Diamond in TFT and played in club level volleyball.
 
 ## Tech Stack
 
-- 💻 Python, Java, JavaScript, and more.
-- 🌐 Experience with web development technologies like Flask, FastAPI, and Spring.
+- 💻 Python, Java, JavaScript, PostgreSQL and more.
+- 🌐 Experience with web development technologies like Flask, FastAPI, Spring, AWS.
 - 🛠️ Passionate about building full-stack applications.
 
 ## Get in Touch?
