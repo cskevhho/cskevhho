@@ -13,9 +13,9 @@ Ex-personal trainer and manager with over 10 years of experience in the retail a
 
 ## Tech Stack
 
-- 💻 Python, Java, JavaScript, PostgreSQL and more.
-- 🌐 Experience with web development technologies like Flask, FastAPI, Spring, AWS.
-- 🛠️ Passionate about building full-stack applications.
+- 💻 Python, Java, TypeScript, JavaScript
+- 🌐 React, Angular, HTML CSS, Flask, FastAPI, Spring
+- 🛠️ Docker, AWS
 
 ## Get in Touch?
 
