@@ -7,8 +7,8 @@ Ex-personal trainer and manager with over 10 years of experience in the retail a
 
 ## About Me
 
-- 🌱 Currently focused on building a strong foundation in full stack development.
-- 👨‍🎓 Enrolled in York University starting my 3rd year in Computer Science (Fall 2023), co-op qualified
+- 🌱 Currently getting my hands dirty with game development.
+- 👨‍🎓 Enrolled in York University, finishing my 3rd year in Computer Science.
 - 🎮 Diamond in TFT and played in club level volleyball.
 
 ## Tech Stack
@@ -19,7 +19,7 @@ Ex-personal trainer and manager with over 10 years of experience in the retail a
 
 ## Get in Touch?
 
-If you've made it this far and are interested in discussing internship/work opportunities, please feel free to email me at kevhho@my.york.ca! Cheers 🤠
+If you've made it this far and are interested in discussing internship/work opportunities, please feel free to email me at hhokevin@gmail.com! Cheers 🤠
 <!---
 cskevhho/cskevhho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
