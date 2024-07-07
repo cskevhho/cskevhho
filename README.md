@@ -7,15 +7,15 @@ Ex-personal trainer and manager with over 10 years of experience in the retail a
 
 ## About Me
 
-- 🌱 Currently getting my hands dirty with game development.
-- 👨‍🎓 Enrolled in York University, finishing my 3rd year in Computer Science.
-- 🎮 Diamond in TFT and played in club level volleyball.
+-  Currently getting my hands dirty with game development
+-  Enrolled in York University, finishing my 3rd year in Computer Science
+-  Diamond in TFT and played in club level volleyball
 
 ## Tech Stack
 
-- 💻 Python, Java, TypeScript, JavaScript
-- 🌐 React, Angular, HTML CSS, Flask, FastAPI, Spring
-- 🛠️ Docker, AWS
+-  Python, Java, TypeScript, JavaScript, C#
+-  React, Angular, HTML CSS, Flask, FastAPI, Spring, Sveltekit
+-  Docker, AWS
 
 ## Get in Touch?
 
