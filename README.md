@@ -3,8 +3,6 @@
 
 Ex-personal trainer and manager with over 10 years of experience in the retail and fitness industry, pivoting into software and currently enrolled in York University's Computer Science program!
 
-🚀 Pursuing a career in software development!
-
 ## About Me
 
 -  Currently getting my hands dirty with game development
